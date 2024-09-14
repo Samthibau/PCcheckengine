@@ -58,6 +58,6 @@ This Python script creates a system monitor that checks Ethernet connectivity, d
 ### Built by @Samthibault04. More features coming soon.:
 - This is a basic version of the Code, im actually building a full app around this idea but that will take some time Follw me on TikTok or Youtube @Samthibault04 to follow along with development
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, the the License File for more
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, see the the License File for more
 
 
