@@ -24,7 +24,7 @@ This Python script creates a system monitor that checks Ethernet connectivity, d
 
 ### Step 2: Install Dependencies
 
-1. **CD into the `FirstCheck` folder**
+1. CD into the `FirstCheck` folder
 
 2. Run `pip install -r requirements.txt`
 
