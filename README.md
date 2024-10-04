@@ -1,13 +1,14 @@
 # Basic System Monitor with Tray Icon built with Python
 
-This Python script creates a system monitor that checks Ethernet connectivity, disk space,CPU usage, Etc and displays a warning as a system tray icon if any issues are detected.
+This Python script creates a system monitor that checks Ethernet connectivity, disk space, CPU usage, etc. and displays a warning as a system tray icon if any issues are detected.
 
 ## Features
 
 - Monitors system resources (Ethernet, Disk, CPU).
 - Displays a custom animated GIF as a system tray icon.
 - Shows issues in a tooltip when an issue is detected.
-- Runs silently in the background uses very little CPU.
+- Runs silently in the background
+- uses very little CPU.
   
 ## Requirements
 
@@ -29,6 +30,8 @@ This Python script creates a system monitor that checks Ethernet connectivity, d
 
 ### Step 3: Run
 1. Double-click the `run.bat` file in the `FirstCheck` directory.
+
+
 ### Built by @Samthibault04. More features coming soon.:
 - This is a basic version of the Code, im actually building a full app around this idea but that will take some time Follw me on TikTok or Youtube @Samthibault04 to follow along with development
 
