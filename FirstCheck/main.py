@@ -3,7 +3,6 @@ Check Engine Light
 PC maintenance + fault monitor for Windows
 Elo E122426 / LD220-compatible 2x20 VFD
 
-Original concept by @Samthibault04
 """
 
 import os
